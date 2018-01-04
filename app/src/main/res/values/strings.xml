@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StockMarket</string>
+    <string name="title">Stock Market Search</string>
+    <string name="background_image">background image</string>
+    <string name="get_quote_button">Get Quote</string>
+    <string name="clear_button">Clear</string>
+    <string name="autorefresh_button">AutoRefresh</string>
+    <string name="favorites_text">Favorites</string>
+    <string name="error_message">Failed to load data.</string>
+    <string name="facebook_app_id">1901222133529504</string>
+    <string-array name="sort_by">
+        <item>Sort by</item>
+        <item>Default</item>
+        <item>Symbol</item>
+        <item>Price</item>
+        <item>Change</item>
+        <item>Change(%)</item>
+    </string-array>
+    <string-array name="order">
+        <item>Order</item>
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+    <string-array name="indicators">
+        <item>Price</item>
+        <item>SMA</item>
+        <item>EMA</item>
+        <item>STOCH</item>
+        <item>RSI</item>
+        <item>ADX</item>
+        <item>CCI</item>
+        <item>BBANDS</item>
+        <item>MACD</item>
+    </string-array>
+</resources>
